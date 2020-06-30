@@ -1,0 +1,11 @@
+{
+  "name": "@types/n2_flatbuffers",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for flatbuffers",
+  "main": "",
+  "scripts": {},
+  "author": "sorilove",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "typeScriptVersion": "2.8"
+}

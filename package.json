@@ -7,5 +7,13 @@
   "author": "sorilove",
   "license": "MIT",
   "types": "index.d.ts",
-  "typeScriptVersion": "2.8"
+  "typeScriptVersion": "2.8",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorilove/types-n2_flatbuffers.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sorilove/types-n2_flatbuffers/issues"
+  },
+  "homepage": "https://github.com/sorilove/types-n2_flatbuffers#readme"
 }

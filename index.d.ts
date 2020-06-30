@@ -365,3 +365,7 @@ declare global {
  * Monster.finishMonsterBuffer(fbb, monsterobj.pack(fbb));
  * 
  */
+
+ /**
+  * --no-fb-import --gen-object-api --gen-all
+  */

@@ -1,5 +1,5 @@
 {
-  "name": "ts_n2_flatbuffers",
+  "name": "@types/n2_flatbuffers",
   "version": "0.1.0",
   "description": "TypeScript definitions for flatbuffers",
   "main": "",
